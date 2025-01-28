@@ -3,8 +3,6 @@ A small collection of Python exercises completed as part of my university curric
 
 ## Project Structure
 
-## Detailed Descriptions
-
 ### **Assignment1.py**
 1. **Exercise 1: Narcissistic Numbers**
     - Calculates and prints all narcissistic numbers between 1 and 600,000.
